@@ -2,19 +2,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Roberto+%F0%9F%91%8B;Desarrollador+Full-Stack;Entusiasta+de+IoT+%26+Hardware;Construyo+SIBIA+con+IA+Explicable;Bienvenido+a+mi+perfil+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-![Perfil de Roberto](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=180&section=header&text=&fontSize=0)
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,npm,py,java,mysql,sqlite,supabase,git,arduino,unity,blender,raspberrypi,linux,windows&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,npm,py,java,mysql,sqlite,postgres,supabase,git,arduino,unity,blender,ubuntu,bash,linux,windows&perline=23" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Redes_de_Computadoras-2E86C1?style=flat-square&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/CMD-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 
 </div>
 
