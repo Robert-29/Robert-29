@@ -13,9 +13,10 @@
 <br/>
 
 <img src="https://skillicons.dev/icons?i=bash,linux,windows&perline=3" />
-<img src="https://img.shields.io/badge/-%20-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=E7352C" width="48" height="48" />
-<img src="https://img.shields.io/badge/-%20-049FD9?style=flat-square&logo=cisco&logoColor=white&labelColor=049FD9" width="48" height="48" />
-<img src="https://img.shields.io/badge/-%20-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=635BFF" width="48" height="48" />
+
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cisco/049FD9" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" />
 
 </div>
 
