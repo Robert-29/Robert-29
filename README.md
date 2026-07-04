@@ -12,11 +12,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=bash,linux,windows&perline=3" />
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cisco/049FD9" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=bash,linux,windows&perline=3" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cisco/049FD9" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" />
 
 </div>
 
