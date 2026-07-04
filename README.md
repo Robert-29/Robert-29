@@ -4,13 +4,18 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,npm,py,java,mysql,sqlite,postgres,supabase,git,arduino,unity,blender,ubuntu,bash,linux,windows&perline=23" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,npm,py&perline=10" />
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,mysql,sqlite,postgres,supabase,git,arduino,unity,blender,ubuntu&perline=10" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=bash,linux,windows&perline=3" />
+<img src="https://img.shields.io/badge/-%20-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=E7352C" width="48" height="48" />
+<img src="https://img.shields.io/badge/-%20-049FD9?style=flat-square&logo=cisco&logoColor=white&labelColor=049FD9" width="48" height="48" />
+<img src="https://img.shields.io/badge/-%20-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=635BFF" width="48" height="48" />
 
 </div>
 
