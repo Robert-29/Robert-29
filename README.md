@@ -8,11 +8,11 @@
 **FULL STACK DEVELOPER**  
 IOT ENGINEER • AI ENTHUSIAST • NETWORKS
 
-📍 Guayaquil, Ecuador &nbsp;·&nbsp; ![online](https://img.shields.io/badge/●-online-22e584?style=flat-square)
+📍 Guayaquil, Ecuador &nbsp;·&nbsp; ![online](https://img.shields.io/badge/-online-22e584?style=flat-square&labelColor=0d1220)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Robert--29-0d1220?style=for-the-badge&logo=github&logoColor=3ddcf7)](https://github.com/Robert-29)
-[![X](https://img.shields.io/badge/X-@Roberto53713354-0d1220?style=for-the-badge&logo=x&logoColor=3ddcf7)](https://x.com/Roberto53713354)
-[![Email](https://img.shields.io/badge/Email-robertocarlos.dev@gmail.com-0d1220?style=for-the-badge&logo=gmail&logoColor=3ddcf7)](mailto:robertocarlos.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Robert--29-070a14?style=flat-square&logo=github&logoColor=3ddcf7&labelColor=0d1220)](https://github.com/Robert-29)
+[![X](https://img.shields.io/badge/X-@Roberto53713354-070a14?style=flat-square&logo=x&logoColor=3ddcf7&labelColor=0d1220)](https://x.com/Roberto53713354)
+[![Email](https://img.shields.io/badge/Email-robertocarlos.dev@gmail.com-070a14?style=flat-square&logo=gmail&logoColor=a78bfa&labelColor=0d1220)](mailto:robertocarlos.dev@gmail.com)
 
 </div>
 
@@ -45,8 +45,8 @@ C:\Users\Roberto> _
 ### 🔴 🟡 🟢&nbsp;&nbsp;github.stats — sh
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Robert-29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1220&title_color=3ddcf7&icon_color=a78bfa&text_color=c9d3e8" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robert-29&theme=tokyonight&hide_border=true&background=0D1220&stroke=1c2438&ring=3ddcf7&fire=a78bfa&currStreakLabel=3ddcf7" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Robert-29&show_icons=true&hide_border=true&bg_color=0d1220&title_color=3ddcf7&icon_color=a78bfa&text_color=c9d3e8&border_color=1c2438" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robert-29&hide_border=true&background=0D1220&stroke=1C2438&ring=3DDCF7&fire=A78BFA&currStreakLabel=3DDCF7&currStreakNum=EAF6FF&sideNums=C9D3E8&sideLabels=5F6C8A&dates=5F6C8A" width="48%"/>
 </div>
 
 <br>
@@ -55,11 +55,11 @@ C:\Users\Roberto> _
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,npm,python,java,postgres,supabase,sqlite,redis,prisma,arduino,ubuntu,linux,windows)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,npm,python,java,postgres,supabase,sqlite,redis,prisma,arduino,ubuntu,linux,windows&theme=dark)
 
-<img src="https://img.shields.io/badge/Cisco-0d1220?style=for-the-badge&logo=cisco&logoColor=3ddcf7" height="32"/>
-<img src="https://img.shields.io/badge/Wireshark-0d1220?style=for-the-badge&logo=wireshark&logoColor=3ddcf7" height="32"/>
-<img src="https://img.shields.io/badge/ESP32-0d1220?style=for-the-badge&logo=espressif&logoColor=3ddcf7" height="32"/>
+![Cisco](https://img.shields.io/badge/Cisco-070a14?style=flat-square&logo=cisco&logoColor=3ddcf7&labelColor=0d1220)
+![Wireshark](https://img.shields.io/badge/Wireshark-070a14?style=flat-square&logo=wireshark&logoColor=3ddcf7&labelColor=0d1220)
+![ESP32](https://img.shields.io/badge/ESP32-070a14?style=flat-square&logo=espressif&logoColor=a78bfa&labelColor=0d1220)
 
 </div>
 
@@ -118,7 +118,7 @@ Plataforma de reservas de hotel con panel administrativo, autenticación y gesti
 
 ### 🔴 🟡 🟢&nbsp;&nbsp;activity.graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robert-29&theme=tokyo-night&hide_border=true&bg_color=0d1220&color=3ddcf7&line=a78bfa&point=eaf6ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robert-29&bg_color=0D1220&color=3DDCF7&line=A78BFA&point=EAF6FF&hide_border=true&area=true&area_color=3DDCF7" width="100%"/>
 
 <br>
 
